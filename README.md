@@ -3,6 +3,8 @@
 
 An unofficial tiktok downloader scraper for download video, audio and images using tiktok link.
 
+- [example for tiktok video link](#video)
+- [example for tiktok image](#image)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
@@ -29,8 +31,8 @@ or
 const { downloadTiktok } = require(" @mrnima/tiktok-downloader");
 ```
 
-
-## Example
+<a name="video">
+## Example 1
 *Download tiktok video link.*
 ```javascript
 async function TEST_TIKTOK_DL(){
@@ -59,8 +61,10 @@ TEST_TIKTOK_DL()
   }
 }
 ```
+</a>
 
-## Example
+<a name="image">
+## Example 2
 *Download tiktok image link.*
 ```javascript
 async function TEST_TIKTOK_DL(){
@@ -99,6 +103,8 @@ TEST_TIKTOK_DL()
   }
 }
 ```
+</a>
+
 ## Authors
 
 - [@darkmakerofc](https://www.github.com/darkmakerofc)
