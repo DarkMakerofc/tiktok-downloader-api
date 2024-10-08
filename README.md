@@ -32,6 +32,7 @@ const { downloadTiktok } = require(" @mrnima/tiktok-downloader");
 ```
 
 <a name="video">
+ 
 ## Example 1
 *Download tiktok video link.*
 ```javascript
@@ -64,6 +65,7 @@ TEST_TIKTOK_DL()
 </a>
 
 <a name="image">
+ 
 ## Example 2
 *Download tiktok image link.*
 ```javascript
