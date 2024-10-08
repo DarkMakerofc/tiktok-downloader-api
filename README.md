@@ -1,16 +1,17 @@
+<h2 align="center"> TIKTOK DOWNLOADER API </h2></br>
+<div id="logo" align= "center">
+            
+<a href="https://sinhalasub.lk/">
+<img src="/result/logo.jpg" alt="SinhalaSub" height="60" width="120">
+</a>
+</div></br>
 
-# nodeJs tiktok downloader api
+<p align = "center"> An unofficial tiktok downloader scraper for download video, audio and images using tiktok link.</p>
+</br>
 
-An unofficial tiktok downloader scraper for download video, audio and images using tiktok link.
 
 - [example for tiktok video link](#video)
 - [example for tiktok image](#image)
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
-## Feedback
-
-If you have any feedback, please reach out to us at queenelisa.bot@gmail.com
 
 
 ## install
@@ -106,6 +107,14 @@ TEST_TIKTOK_DL()
 }
 ```
 </a>
+
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+## Feedback
+
+If you have any feedback, please reach out to us at queenelisa.bot@gmail.com
+
 
 ## Authors
 
