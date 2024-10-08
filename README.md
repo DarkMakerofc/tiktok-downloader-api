@@ -2,7 +2,7 @@
 <div id="logo" align= "center">
             
 <a href="#">
-<img src="/result/logo.jpg" alt="tiktik-api" height="60" width="120">
+<img src="https://raw.githubusercontent.com/DarkMakerofc/tiktok-downloader-api/refs/heads/main/results/logo.jpg" alt="tiktik-api" height="60" width="70">
 </a>
 </div></br>
 
