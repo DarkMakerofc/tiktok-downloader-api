@@ -1,8 +1,8 @@
 <h2 align="center"> TIKTOK DOWNLOADER API </h2></br>
 <div id="logo" align= "center">
             
-<a href="https://sinhalasub.lk/">
-<img src="/result/logo.jpg" alt="SinhalaSub" height="60" width="120">
+<a href="#">
+<img src="/result/logo.jpg" alt="tiktik-api" height="60" width="120">
 </a>
 </div></br>
 
