@@ -29,7 +29,7 @@ or
 ## Require
 
 ```javascript
-const { downloadTiktok } = require(" @mrnima/tiktok-downloader");
+const { downloadTiktok } = require("@mrnima/tiktok-downloader");
 ```
 
 <a name="video">
